@@ -2,8 +2,6 @@ const buttonsEl = document.querySelectorAll("button");
 
 
 
-
-
 const inputFieldEl = document.getElementById("result");
 
 for (let i = 0; i < buttonsEl.length; i++) {
